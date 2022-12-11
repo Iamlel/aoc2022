@@ -7,7 +7,6 @@ section .data
 	answerMSG db "The answer is: ", 0
 
 	bufferlen equ 15360	;buffer length
-	topAmount equ 1		;how many highest calories to get
 
 section .bss
 	buffer resb bufferlen	;allocate bufferlen length
