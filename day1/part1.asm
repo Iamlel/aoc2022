@@ -18,7 +18,6 @@ section .text
 ; r8: holds the current number
 ; r9: holds pointer to the current character
 ; r10: holds the current calories
-; r11: holds the number of runs 
 ; stack: holds the highest calories and some other things
 ; rax: temporary use
 
