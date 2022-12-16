@@ -14,7 +14,7 @@ void main() {
     int median;
 
     while (!file.eof()) {
-        input = file.readln.chomp.map!(c => priority(to!int(c))).array;
+        input = file.readln.chomp.map!(c => to!int(c).priority).array;
         
         median = to!int(input.length * 0.5);
 
