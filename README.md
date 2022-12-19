@@ -25,3 +25,16 @@
 - [ ] Day 23: Ts
 - [ ] Day 24: Nim
 - [ ] Day 25: Python
+
+## Timings
+|                                              | Part 1                       | Part 2                       |
+|:---------------------------------------------|:-----------------------------|:-----------------------------|
+| [Day 1](https://adventofcode.com/2022/day/1) | [`0.1 ms`](./day1/part1.asm) |                              |
+| [Day 2](https://adventofcode.com/2022/day/2) | [`7.7 ms`](./day2/part1.cob) | [`7.7 ms`](./day2/part2.cob) |
+| [Day 3](https://adventofcode.com/2022/day/3) | [`2.7 ms`](./day3/part1.d)   | [`1.1 ms`](./day3/part2.d)   |
+| [Day 4](https://adventofcode.com/2022/day/4) | [`3.0 ms`](./day4/part1.rs)  | [`2.7 ms`](./day4/part2.rs)  |
+
+## Environment
+- CPU: Intel i7-8700 (2) @ 3.192GHz 
+- GPU: 00:02.0 VMware SVGA II Adapter 
+- Memory: 563MiB / 5932MiB
