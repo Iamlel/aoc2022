@@ -5,12 +5,12 @@
 - [X] Day 3: D        - gdc (GCC) 12.2.0
 - [X] Day 4: Rust     - rustc 1.65.0 (897e37553 2022-11-02)
 - [X] Day 5: OCaml    - version 5.0.0
-- [ ] Day 6: Lisp
+- [X] Day 6: Perl     - perl 5, version 36, subversion 0 (v5.36.0) built for x86_64-linux-thread-multi
 - [ ] Day 7: Pascal
 - [ ] Day 8: Go
 - [ ] Day 9: Ada
 - [ ] Day 10: forth
-- [ ] Day 11: Perl
+- [ ] Day 11: Common Lisp
 - [ ] Day 12: Closure
 - [ ] Day 13: Julia
 - [ ] Day 14: Scala
@@ -33,7 +33,8 @@
 | [Day 2](https://adventofcode.com/2022/day/2) | [`7.7  ms`](./day2/part1.cob) | [`7.7  ms`](./day2/part2.cob) |
 | [Day 3](https://adventofcode.com/2022/day/3) | [`2.7  ms`](./day3/part1.d)   | [`1.1  ms`](./day3/part2.d)   |
 | [Day 4](https://adventofcode.com/2022/day/4) | [`3.0  ms`](./day4/part1.rs)  | [`2.7  ms`](./day4/part2.rs)  |
-| [Day 4](https://adventofcode.com/2022/day/5) | [`16.4 ms`](./day4/part1.ml)  | [`17.2 ms`](./day4/part2.ml)  |
+| [Day 5](https://adventofcode.com/2022/day/5) | [`16.4 ms`](./day5/part1.ml)  | [`17.2 ms`](./day5/part2.ml)  |
+| [Day 6](https://adventofcode.com/2022/day/6) | [`1.2  ms`](./day6/part1.pl)  | [`1.2  ms`](./day6/part2.pl)  |
 
 ## Environment
 - CPU: Intel i7-8700 (2) @ 3.192GHz 
