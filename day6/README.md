@@ -90,7 +90,7 @@ Here are the first positions of start-of-message markers for all of the above ex
 
 ### Solution
 
-Part 2 isn't worth explaining. The solution is the exact same, expect we now check for 14 characters, instead of 4. In fact, here is a generalized solution that works with any **r** amount of consecutive different characters.
+Part 2 isn't worth explaining. The solution is the exact same, except we now check for 14 characters, instead of 4. In fact, here is a generalized solution that works with any **r** amount of consecutive different characters.
 
 ```perl
 use List::MoreUtils qw(first_index);
