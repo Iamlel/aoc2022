@@ -22,13 +22,6 @@ void main() {
             if (input[median..$].canFind(input[x])) {
                 median -= input[0..median].count;
                 total += input[x];
-
-                for (int i = 0; i < input.length; i++) {
-                    if (input[i] == 5) {
-                        input.remove(i);
-                        i--;
-                    }
-                }
             }
         }
     }
