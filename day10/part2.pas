@@ -1,4 +1,4 @@
-program AOCDay10Part1;
+program AOCDay10Part2;
 uses sysutils;
 
 var
