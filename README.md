@@ -37,7 +37,7 @@
 | [Day  6](https://adventofcode.com/2022/day/6)  | [`19.2 ms`](./day06/part1.pl)     | [`23.4   ms`](./day06/part2.pl)     |
 | [Day  7](https://adventofcode.com/2022/day/7)  | [`0.9  ms`](./day07/part1.adb)    | [`0.9    ms`](./day07/part2.adb)    |
 | [Day  8](https://adventofcode.com/2022/day/8)  | [`12.5 ms`](./day08/part1.dyalog) | [`359.0  ms`](./day08/part2.dyalog) |
-| [Day  9](https://adventofcode.com/2022/day/9)  | [`83.6 ms`](./day09/part1.fth)    |                                     |
+| [Day  9](https://adventofcode.com/2022/day/9)  | [`83.6 ms`](./day09/part1.fth)    | [`88.7 ms`](./day09/part2.fth)      |
 | [Day 10](https://adventofcode.com/2022/day/10) | [`0.3  ms`](./day10/part1.pas)    | [`0.3    ms`](./day10/part2.pas)    |
 | [Day 11](https://adventofcode.com/2022/day/11) | [`1.1  ms`](./day11/part1.go)     | [`35.2   ms`](./day11/part2.go)     |
 
