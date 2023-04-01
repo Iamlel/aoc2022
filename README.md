@@ -11,9 +11,9 @@
 - [X] Day 9: Forth          - gforth 0.7.3
 - [X] Day 10: Pascal        - Free Pascal Compiler version 3.2.2 [2022/08/31] for x86_64
 - [X] Day 11: Go            - go version go1.19.4 linux/amd64
-- [ ] Day 12: Closure
+- [X] Day 12: Scala         - Scala code runner version 2.13.8-20220325-005602-unknown -- Copyright 2002-2021, LAMP/EPFL and Lightbend, Inc.
 - [ ] Day 13: Julia
-- [ ] Day 14: Scala
+- [ ] Day 14: Closure
 - [ ] Day 15: Fortran
 - [ ] Day 16: Kotlin
 - [ ] Day 17: Basic
@@ -27,19 +27,20 @@
 - [ ] Day 25: Python
 
 ## Timings
-|                                                | Part 1                            | Part 2                              |
-|:-----------------------------------------------|:----------------------------------|:------------------------------------|
-| [Day  1](https://adventofcode.com/2022/day/1)  | [`0.1  ms`](./day01/part1.asm)    |                                     |
-| [Day  2](https://adventofcode.com/2022/day/2)  | [`7.7  ms`](./day02/part1.cob)    | [`7.7    ms`](./day02/part2.cob)    |
-| [Day  3](https://adventofcode.com/2022/day/3)  | [`2.5  ms`](./day03/part1.d)      | [`1.1    ms`](./day03/part2.d)      |
-| [Day  4](https://adventofcode.com/2022/day/4)  | [`2.7  ms`](./day04/part1.rs)     | [`2.7    ms`](./day04/part2.rs)     |
-| [Day  5](https://adventofcode.com/2022/day/5)  | [`16.4 ms`](./day05/part1.ml)     | [`17.2   ms`](./day05/part2.ml)     |
-| [Day  6](https://adventofcode.com/2022/day/6)  | [`19.2 ms`](./day06/part1.pl)     | [`23.4   ms`](./day06/part2.pl)     |
-| [Day  7](https://adventofcode.com/2022/day/7)  | [`0.9  ms`](./day07/part1.adb)    | [`0.9    ms`](./day07/part2.adb)    |
-| [Day  8](https://adventofcode.com/2022/day/8)  | [`12.5 ms`](./day08/part1.dyalog) | [`359.0  ms`](./day08/part2.dyalog) |
-| [Day  9](https://adventofcode.com/2022/day/9)  | [`83.6 ms`](./day09/part1.fth)    | [`88.7 ms`](./day09/part2.fth)      |
-| [Day 10](https://adventofcode.com/2022/day/10) | [`0.3  ms`](./day10/part1.pas)    | [`0.3    ms`](./day10/part2.pas)    |
-| [Day 11](https://adventofcode.com/2022/day/11) | [`1.1  ms`](./day11/part1.go)     | [`35.2   ms`](./day11/part2.go)     |
+|                                                | Part 1                             | Part 2                             |
+|:-----------------------------------------------|:-----------------------------------|:-----------------------------------|
+| [Day  1](https://adventofcode.com/2022/day/1)  | [`0.1   ms`](./day01/part1.asm)    |                                    |
+| [Day  2](https://adventofcode.com/2022/day/2)  | [`7.7   ms`](./day02/part1.cob)    | [`7.7   ms`](./day02/part2.cob)    |
+| [Day  3](https://adventofcode.com/2022/day/3)  | [`2.5   ms`](./day03/part1.d)      | [`1.1   ms`](./day03/part2.d)      |
+| [Day  4](https://adventofcode.com/2022/day/4)  | [`2.7   ms`](./day04/part1.rs)     | [`2.7   ms`](./day04/part2.rs)     |
+| [Day  5](https://adventofcode.com/2022/day/5)  | [`16.4  ms`](./day05/part1.ml)     | [`17.2  ms`](./day05/part2.ml)     |
+| [Day  6](https://adventofcode.com/2022/day/6)  | [`19.2  ms`](./day06/part1.pl)     | [`23.4  ms`](./day06/part2.pl)     |
+| [Day  7](https://adventofcode.com/2022/day/7)  | [`0.9   ms`](./day07/part1.adb)    | [`0.9   ms`](./day07/part2.adb)    |
+| [Day  8](https://adventofcode.com/2022/day/8)  | [`12.5  ms`](./day08/part1.dyalog) | [`359.0 ms`](./day08/part2.dyalog) |
+| [Day  9](https://adventofcode.com/2022/day/9)  | [`83.6  ms`](./day09/part1.fth)    | [`88.7  ms`](./day09/part2.fth)    |
+| [Day 10](https://adventofcode.com/2022/day/10) | [`0.3   ms`](./day10/part1.pas)    | [`0.3   ms`](./day10/part2.pas)    |
+| [Day 11](https://adventofcode.com/2022/day/11) | [`1.1   ms`](./day11/part1.go)     | [`35.2  ms`](./day11/part2.go)     |
+| [Day 12](https://adventofcode.com/2022/day/12) | [`785.2 ms`](./day12/part1.scala)  | [`764.9 ms`](./day12/part2.scala)  |
 
 ## Environment
 - CPU: Intel i7-8700 (2) @ 3.192GHz 
