@@ -1,4 +1,3 @@
-(defmacro dequeue (q) (pop q))
 (defun enqueue (q item) 
   (let ((new-last (list item)))
   (if (null (car q))
