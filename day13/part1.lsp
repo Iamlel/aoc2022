@@ -44,7 +44,7 @@
           (read-char fp)
           (read-char fp)
 
-          (setq total (+ (* i (compare-value queue (fill-queue fp))) i total))
+          (incf total (+ (* i (compare-value queue (fill-queue fp))) i))
 
           (read-char fp)
           (read-char fp nil))))
