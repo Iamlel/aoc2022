@@ -4,7 +4,7 @@
           (cond ((char= #\[ ch) (incf par_count))
                 ((or (char= #\] ch) (char= #\, ch))
                  (return (+ par_count (* buffer 10))))
-            (t (incf buffer (+ (* buffer 10) (digit-char-p ch))))))))
+            (t (setq buffer (+ (* buffer 10) (digit-char-p ch))))))))
 
 (with-open-file (fp "input.txt" :direction :input)
   (let ((idiv1 2) (idiv2 1) (paciden))
