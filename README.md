@@ -13,7 +13,7 @@
 - [X] Day 11: Go            - go version go1.19.4 linux/amd64
 - [X] Day 12: Scala         - Scala code runner version 2.13.8-20220325-005602-unknown -- Copyright 2002-2021, LAMP/EPFL and Lightbend, Inc.
 - [X] Day 13: Common Lisp   - SBCL 2.3.3
-- [ ] Day 14: Closure
+- [X] Day 14: C++           - g++ (GCC) 13.1.1
 - [ ] Day 15: Fortran
 - [ ] Day 16: Kotlin
 - [ ] Day 17: Basic
@@ -42,6 +42,7 @@
 | [Day 11](https://adventofcode.com/2022/day/11) | [`1.1   ms`](./day11/part1.go)     | [`35.2  ms`](./day11/part2.go)     |
 | [Day 12](https://adventofcode.com/2022/day/12) | [`785.2 ms`](./day12/part1.scala)  | [`764.9 ms`](./day12/part2.scala)  |
 | [Day 13](https://adventofcode.com/2022/day/13) | [`4.6   ms`](./day13/part1.lisp)   | [`4.3   ms`](./day13/part2.lisp)   |
+| [Day 14](https://adventofcode.com/2022/day/14) | [`2.3   ms`](./day14/part1.cpp)    | [`13.2  ms`](./day14/part2.cpp)    |
 
 ## Environment
 - CPU: Intel i7-8700 (2) @ 3.192GHz 
