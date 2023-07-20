@@ -1,6 +1,6 @@
 # My Advent Of Code solutions in 25 different programming languages with explanations included.
 
-- [X] Day 1. Assembly       - NASM version 2.15.05 compiled on Sep 24 2020
+- [ ] Day 1. Assembly       - NASM version 2.15.05 compiled on Sep 24 2020
 - [X] Day 2: Cobol          - cobc (GnuCOBOL) 3.1.2.0 C version "10.2.0"
 - [X] Day 3: D              - gdc (GCC) 12.2.0
 - [X] Day 4: Rust           - rustc 1.65.0 (897e37553 2022-11-02)
@@ -14,7 +14,7 @@
 - [X] Day 12: Scala         - Scala code runner version 2.13.8-20220325-005602-unknown -- Copyright 2002-2021, LAMP/EPFL and Lightbend, Inc.
 - [X] Day 13: Common Lisp   - SBCL 2.3.3
 - [X] Day 14: C++           - g++ (GCC) 13.1.1
-- [ ] Day 15: Fortran
+- [ ] Day 15: Fortran       - GNU Fortran (GCC) 13.1.1
 - [ ] Day 16: Kotlin
 - [ ] Day 17: Basic
 - [ ] Day 18: Lua
@@ -43,6 +43,7 @@
 | [Day 12](https://adventofcode.com/2022/day/12) | [`785.2 ms`](./day12/part1.scala)  | [`764.9 ms`](./day12/part2.scala)  |
 | [Day 13](https://adventofcode.com/2022/day/13) | [`4.6   ms`](./day13/part1.lisp)   | [`4.3   ms`](./day13/part2.lisp)   |
 | [Day 14](https://adventofcode.com/2022/day/14) | [`2.3   ms`](./day14/part1.cpp)    | [`13.2  ms`](./day14/part2.cpp)    |
+| [Day 15](https://adventofcode.com/2022/day/15) | [`0.6   ms`](./day15/part1.f90)    |                                    |
 
 ## Environment
 - CPU: Intel i7-8700 (2) @ 3.192GHz 
