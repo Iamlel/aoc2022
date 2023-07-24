@@ -43,7 +43,7 @@
 | [Day 12](https://adventofcode.com/2022/day/12) | [`785.2 ms`](./day12/part1.scala)  | [`764.9 ms`](./day12/part2.scala)  |
 | [Day 13](https://adventofcode.com/2022/day/13) | [`4.6   ms`](./day13/part1.lisp)   | [`4.3   ms`](./day13/part2.lisp)   |
 | [Day 14](https://adventofcode.com/2022/day/14) | [`2.3   ms`](./day14/part1.cpp)    | [`13.2  ms`](./day14/part2.cpp)    |
-| [Day 15](https://adventofcode.com/2022/day/15) | [`0.6   ms`](./day15/part1.f90)    | [`1.1   ms`](./day15/part2.f90)    |
+| [Day 15](https://adventofcode.com/2022/day/15) | [`0.6   ms`](./day15/part1.f90)    | [`0.9   ms`](./day15/part2.f90)    |
 
 ## Environment
 - CPU: Intel i7-8700 (2) @ 3.192GHz 
